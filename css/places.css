@@ -1,0 +1,32 @@
+h2 {
+  color: pink;
+  font-style: bold;
+  font-family: fantasy;
+  text-align: center;
+  font-size: 100px;
+}
+
+h3 {
+  color: blue;
+  font-weight: bolder;
+  font-size: 100px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: purple;
+  text-align: center;
+}
+
+p {
+  font-size: 40px;
+  color: black;
+  text-align: left;
+}
+
+img {
+  margin:auto;
+  border-radius: 50%;
+  width: 400px;
+}
